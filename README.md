@@ -4,7 +4,7 @@
 
 
 #Example: 
-
+'''c
 int main()
 {
     int a = 5;
