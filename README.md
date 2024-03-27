@@ -5,15 +5,15 @@
 
 #Example: 
 '''c
-int main()
-{
-    int a = 5;
-    int b = 10;
+    int main()
+    {
+       int a = 5;
+       int b = 10;
 
-    TestEqual(6, a);         
-    TestLarger(b, a);         
-    TestUnEqual(5, b);       
-    TestExpression(a == b); 
+       TestEqual(6, a);         
+       TestLarger(b, a);         
+       TestUnEqual(5, b);       
+       TestExpression(a == b); 
 
-    return 0;
+       return 0;
 }
